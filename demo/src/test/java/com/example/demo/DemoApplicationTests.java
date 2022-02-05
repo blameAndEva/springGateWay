@@ -1,10 +1,10 @@
-package com.blameandnoise.springgateway;
+package com.example.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringgatewayApplicationTests {
+class DemoApplicationTests {
 
     @Test
     void contextLoads() {
